@@ -1,6 +1,5 @@
 login_page = LoginPage.new
 
-
 Dado("que estou na tela de login") do
     login_page.load
   end
