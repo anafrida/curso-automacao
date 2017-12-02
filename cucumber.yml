@@ -1,0 +1,4 @@
+
+default: -p chrome --format progress
+firefox: BROWSER=firefox
+chrome: BROWSER=chrome
